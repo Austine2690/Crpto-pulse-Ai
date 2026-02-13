@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CryptoPulse AI - Smart Trading Analyzer",
+  "description": "An advanced crypto and meme coin analysis platform powered by Gemini AI, offering real-time market insights, sentiment analysis, and buy/sell signals with Google Search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
